@@ -7,6 +7,7 @@ const AboutPage = () => {
                 textAlign:"center"
             }}>
             <h1>We are a book store!</h1>
+            <p>We truly are!</p>
         </div>
     )
 } 
